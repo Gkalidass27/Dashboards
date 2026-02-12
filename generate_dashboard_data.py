@@ -132,8 +132,8 @@ kpis = {
     'gd_site_warehouses': len(df_gd[df_gd['B_PUBID'] == 'SSMASTER_RDC']),
 }
 
-# Top stores data
-top_stores = df_stores.head(20)[['Location', 'Account', 'StoreType', 'Status', 'Market', 'Region', 'StoreModel']].to_dict('records')
+# Top stores data - include ALL stores for filtering, not just top 20
+top_stores = df_stores[['Location', 'Account', 'StoreType', 'Status', 'Market', 'Region', 'StoreModel', 'Country']].to_dict('records')
 
 # Prepare dashboard data
 dashboard_data = {

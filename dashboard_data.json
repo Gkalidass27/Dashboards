@@ -1,0 +1,246 @@
+{
+  "kpis": {
+    "total_active_stores": 845,
+    "total_active_warehouses": 216,
+    "total_locations": 1061,
+    "us_stores": 789,
+    "canada_stores": 56,
+    "store_types": {
+      "HomeStore": 755,
+      "Outlet": 90
+    },
+    "stores_by_market": {
+      "East - AGR Red": 79,
+      "West - AGR Red": 51,
+      "Southwest": 31,
+      "Stoneledge South": 24,
+      "Florida": 21,
+      "Stoneledge North": 18,
+      "Atlanta": 15,
+      "Rockledge": 4
+    },
+    "stores_by_region": {
+      "EATLA": 14,
+      "NDETO": 14,
+      "SHOUSR": 13,
+      "EEFLA": 13,
+      "NINLOU": 13,
+      "SDALLS": 12,
+      "WSEAI": 12,
+      "NTENN": 12,
+      "NNOLA": 11,
+      "SWTEX": 11
+    },
+    "stores_by_model": {
+      "B": 358,
+      "C": 236,
+      "A": 146,
+      "Free Standing": 50,
+      "Side by Side": 22,
+      "Store-In-Store": 13,
+      "A+": 11,
+      "Clearance": 4,
+      "AFI Outlet": 1
+    },
+    "stores_by_version": {
+      "6": 239,
+      "2": 113,
+      "7": 98,
+      "4": 82,
+      "6U": 72,
+      "2.0 (O)": 47,
+      "5": 44,
+      "1.0 (O)": 41,
+      "7.0U": 35,
+      "3": 29,
+      "6.5": 25,
+      "1": 16,
+      "6.00": 2
+    },
+    "gd_site_stores": 846,
+    "gd_site_warehouses": 218
+  },
+  "top_stores": [
+    {
+      "Location": "Mitchell, SD",
+      "Account": "9991100",
+      "StoreType": "HomeStore",
+      "Status": "Active - New",
+      "Market": null,
+      "Region": null,
+      "StoreModel": "C"
+    },
+    {
+      "Location": "Modesto, CA",
+      "Account": "8888600",
+      "StoreType": "HomeStore",
+      "Status": "Active - New",
+      "Market": "Stoneledge North",
+      "Region": "WCALE",
+      "StoreModel": "C"
+    },
+    {
+      "Location": "Mohegan Lake, NY",
+      "Account": "9977700",
+      "StoreType": "HomeStore",
+      "Status": "Active - New",
+      "Market": null,
+      "Region": null,
+      "StoreModel": "B"
+    },
+    {
+      "Location": "Moline, IL",
+      "Account": "9991100",
+      "StoreType": "HomeStore",
+      "Status": "Active - New",
+      "Market": null,
+      "Region": null,
+      "StoreModel": "B"
+    },
+    {
+      "Location": "Lafayette, LA",
+      "Account": "9966100",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": "East - AGR Red",
+      "Region": "NNOLA",
+      "StoreModel": "C"
+    },
+    {
+      "Location": "Lake Charles, LA",
+      "Account": "9966100",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": "East - AGR Red",
+      "Region": "NNOLA",
+      "StoreModel": "B"
+    },
+    {
+      "Location": "Lake Jackson, TX",
+      "Account": "9966100",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": "West - AGR Red",
+      "Region": "SHOUSR",
+      "StoreModel": "C"
+    },
+    {
+      "Location": "Langley, BC",
+      "Account": "9981000",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": null,
+      "Region": null,
+      "StoreModel": "C"
+    },
+    {
+      "Location": "Las Cruces, NM",
+      "Account": "9989200",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": "West - AGR Red",
+      "Region": "SWTEX",
+      "StoreModel": null
+    },
+    {
+      "Location": "Pflugerville, TX",
+      "Account": "9985500",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": "West - AGR Red",
+      "Region": "SSANAU",
+      "StoreModel": "A"
+    },
+    {
+      "Location": "Philadelphia, PA (Outlet)",
+      "Account": "9980200",
+      "StoreType": "Outlet",
+      "Status": "Active - Acquisition",
+      "Market": null,
+      "Region": null,
+      "StoreModel": "Free Standing"
+    },
+    {
+      "Location": "Phillipsburg, NJ",
+      "Account": "1907700",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": null,
+      "Region": null,
+      "StoreModel": "B"
+    },
+    {
+      "Location": "Phoenix (Scottsdale), AZ",
+      "Account": "8888000",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": "Southwest",
+      "Region": "EARIZ",
+      "StoreModel": "A"
+    },
+    {
+      "Location": "Plano, TX",
+      "Account": "9989200",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": "West - AGR Red",
+      "Region": "SDALLS",
+      "StoreModel": "B"
+    },
+    {
+      "Location": "San Antonio (I10), TX",
+      "Account": "9985500",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": "West - AGR Red",
+      "Region": "SSANAU",
+      "StoreModel": "A"
+    },
+    {
+      "Location": "San Antonio (Live Oak), TX",
+      "Account": "9985500",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": "West - AGR Red",
+      "Region": "SSANAU",
+      "StoreModel": "A"
+    },
+    {
+      "Location": "San Antonio (ZAR), TX",
+      "Account": "9985500",
+      "StoreType": "HomeStore",
+      "Status": "Active - Acquisition",
+      "Market": "West - AGR Red",
+      "Region": "SSANAU",
+      "StoreModel": "A"
+    },
+    {
+      "Location": "Salt Lake City, UT",
+      "Account": "8888000",
+      "StoreType": "HomeStore",
+      "Status": "Active - New",
+      "Market": "Southwest",
+      "Region": "ENVUT",
+      "StoreModel": "A"
+    },
+    {
+      "Location": "Yonkers, NY",
+      "Account": "9977700",
+      "StoreType": "HomeStore",
+      "Status": "Active - New",
+      "Market": null,
+      "Region": null,
+      "StoreModel": "B"
+    },
+    {
+      "Location": "Youngstown, OH",
+      "Account": "1312200",
+      "StoreType": "HomeStore",
+      "Status": "Active - New",
+      "Market": null,
+      "Region": null,
+      "StoreModel": "A"
+    }
+  ],
+  "last_updated": "2026-02-12 15:52:26"
+}

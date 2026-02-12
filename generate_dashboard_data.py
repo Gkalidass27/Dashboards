@@ -132,8 +132,20 @@ kpis = {
     'gd_site_warehouses': len(df_gd[df_gd['B_PUBID'] == 'SSMASTER_RDC']),
 }
 
-# Top stores data - include ALL stores for filtering, not just top 20
-top_stores = df_stores[['Location', 'Account', 'StoreType', 'Status', 'Market', 'Region', 'StoreModel', 'Country']].to_dict('records')
+# Combine stores and warehouses into a single dataset
+# Stores data
+stores_data = df_stores[['Location', 'Account', 'StoreType', 'Status', 'Market', 'Region', 'StoreModel', 'Country']].copy()
+
+# Warehouses data - add matching columns with defaults
+warehouses_data = df_warehouses[['Location', 'Account', 'Status', 'Country']].copy()
+warehouses_data['StoreType'] = 'Warehouse'
+warehouses_data['Market'] = None
+warehouses_data['Region'] = None
+warehouses_data['StoreModel'] = None
+
+# Combine both datasets
+all_locations = pd.concat([stores_data, warehouses_data], ignore_index=True)
+top_stores = all_locations.to_dict('records')
 
 # Prepare dashboard data
 dashboard_data = {

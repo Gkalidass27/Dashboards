@@ -8510,7 +8510,2167 @@
       "Region": null,
       "StoreModel": "C",
       "Country": "United States"
+    },
+    {
+      "Location": "Twin Falls, ID (DC)",
+      "Account": "9971300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Pocatello, ID (DC)",
+      "Account": "9971300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "DuBois, PA (DC)",
+      "Account": "9971400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Potsdam, NY (DC)",
+      "Account": "9971800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Fort Wayne, IN (DC)",
+      "Account": "9972600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Geneva, NY (DC)",
+      "Account": "9973500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Chattanooga, TN (DC)",
+      "Account": "9974000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Del Rio, TX (DC)",
+      "Account": "9974800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Kerrville, TX (DC)",
+      "Account": "9974800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Evansville, IN (DC)",
+      "Account": "9975000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Columbus, MS (DC)",
+      "Account": "9975600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Laredo, TX (DC)",
+      "Account": "9976000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Killeen, TX (DC)",
+      "Account": "9976100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "PlattsBurgh, NY (DC)",
+      "Account": "9976300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Sterling, IL (DC)",
+      "Account": "9976400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Nitro, WV (DC)",
+      "Account": "9976500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Albuquerque, NM (DC)",
+      "Account": "9977400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Edison, NJ (DC)",
+      "Account": "9977700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Escanaba, MI (DC)",
+      "Account": "9978500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Ridgecrest, CA (DC)",
+      "Account": "9978900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Rapid City, SD (DC)",
+      "Account": "9979000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Rapid City, SD (DC)",
+      "Account": "9979000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Salina, KS (DC)",
+      "Account": "9979700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Hays, KS (DC)",
+      "Account": "9979700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Hays, KS (DC)",
+      "Account": "9979700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Beatrice, NE (DC)",
+      "Account": "9980500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Kearney, NE (DC)",
+      "Account": "9980500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Victoria, TX (DC)",
+      "Account": "9980600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Manhattan, KS (DC)",
+      "Account": "9980700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Edmonton, AB (DC)",
+      "Account": "9981000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Saskatoon, SK (DC)",
+      "Account": "9981000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Surrey, BC (DC)",
+      "Account": "9981000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Winnipeg, MB (DC)",
+      "Account": "9981000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Mississauga, ON (DC)",
+      "Account": "9981000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Calgary, AB (DC)",
+      "Account": "9981000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Vernon, BC (DC)",
+      "Account": "9981000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Fredericksburg, VA (DC)",
+      "Account": "9981300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Portales, NM (DC)",
+      "Account": "9981400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Kamloops, BC (DC)",
+      "Account": "9948300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Gallup, NM (DC)",
+      "Account": "9948500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Kinston, NC (DC)",
+      "Account": "9948500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Bradley, IL (DC)",
+      "Account": "9948600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Hearst, ON (DC)",
+      "Account": "9948700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Port Charlotte, FL (DC)",
+      "Account": "9948900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Prattville, AL (DC)",
+      "Account": "9949000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Flint, MI (DC)",
+      "Account": "9950100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Lansing, MI (DC)",
+      "Account": "9950100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Hutchinson, MN (DC)",
+      "Account": "9950200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Fort McMurray, AB (DC)",
+      "Account": "9950300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Swansea, MA (DC)",
+      "Account": "9950400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Roswell, NM (DC)",
+      "Account": "9950800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Artesia, NM (DC)",
+      "Account": "9950800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Carlsbad, NM (DC)",
+      "Account": "9950800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Brookland, AR (DC)",
+      "Account": "9951000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Johnstown, NY (DC)",
+      "Account": "9951700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Thunder Bay, ON (DC)",
+      "Account": "9951800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Sault Ste Marie, ON (DC)",
+      "Account": "9951900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Missoula, MT (DC)",
+      "Account": "9952000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Gillette, WY (DC)",
+      "Account": "9952100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Kingston, ON (DC)",
+      "Account": "9952300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Courtenay, BC (DC)",
+      "Account": "9952400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Paducah, KY (DC)",
+      "Account": "9952700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Beaumont, TX (DC)",
+      "Account": "9952800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Belleville, ON (DC)",
+      "Account": "9952900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Prescott, ON (DC)",
+      "Account": "9952900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Rutland, VT (DC)",
+      "Account": "9953000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Garson, ON (DC)",
+      "Account": "9953400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Helena, MT (DC)",
+      "Account": "9953600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Kinston, NC (DC)",
+      "Account": "9954000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Kinston, NC (DC)",
+      "Account": "9954100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Kinston, NC (DC)",
+      "Account": "9954200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Prince George, BC (DC)",
+      "Account": "9954300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Bend, OR (DC)",
+      "Account": "9954500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Springfield, IL (DC)",
+      "Account": "9981500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Quincy, IL (DC)",
+      "Account": "9981500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Bellefontaine, OH (DC)",
+      "Account": "9982100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Salem, OR (DC)",
+      "Account": "9982200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Cheyenne, WY (DC)",
+      "Account": "9982300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Scottsbluff, NE (DC)",
+      "Account": "9982300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Shreveport, LA (DC)",
+      "Account": "9982600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Alexandria, LA (DC)",
+      "Account": "9982700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Shreveport, LA (DC)",
+      "Account": "9982700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Delmar, DE (DC)",
+      "Account": "9983600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Memphis, TN (DC)",
+      "Account": "9983800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Harlingen, TX (DC)",
+      "Account": "9983800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Springfield, MO (DC)",
+      "Account": "9983800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Florence, SC (DC)",
+      "Account": "9983900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Medford, OR (DC)",
+      "Account": "9984300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Topeka, KS (DC)",
+      "Account": "9984600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Lakeside, AZ (DC)",
+      "Account": "9985200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Oshkosh, WI (DC)",
+      "Account": "9985400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Steves Point, WI (DC)",
+      "Account": "9985400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "New Braunfels, TX (DC)",
+      "Account": "9985500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Ontario, OR (DC)",
+      "Account": "9985600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Bessemer, AL (DC)",
+      "Account": "9986200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Kernersville, NC (DC)",
+      "Account": "9986900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Loxley, AL (DC)",
+      "Account": "9986900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Thomasville, GA (DC)",
+      "Account": "9986900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Marion, OH (DC)",
+      "Account": "9987000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Four Oaks, NC (DC)",
+      "Account": "9987300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Spartanburg, SC (DC)",
+      "Account": "9987300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Fort Mill, SC (DC)",
+      "Account": "9987300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Texarkana, AR (DC)",
+      "Account": "9987400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Minot, ND (DC)",
+      "Account": "9988100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Williston, ND (DC)",
+      "Account": "9988100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Dickinson, ND (DC)",
+      "Account": "9988100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Billings, MT (DC)",
+      "Account": "9988100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Great Falls, MT (DC)",
+      "Account": "9988100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Bismarck, ND (DC)",
+      "Account": "9988100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Bozeman, MT (DC)",
+      "Account": "9988100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Fairborn, OH (DC)",
+      "Account": "9988200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Tamarac, FL (DC)",
+      "Account": "1251600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Smithton, PA (DC)",
+      "Account": "1312200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Amhurst, NH (DC)",
+      "Account": "1907700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Philadelphia, PA (DC)",
+      "Account": "1907700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Brandywine, MD (DC)",
+      "Account": "1907700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Arcadia, WI (DC)",
+      "Account": "1913400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Phoenix, AZ (DC)",
+      "Account": "8888000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Salt Lake City, UT (DC)",
+      "Account": "8888000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Spanaway, WA (DC)",
+      "Account": "8888000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Boise, ID (DC)",
+      "Account": "8888000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Brandon, FL (DC)",
+      "Account": "8888300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "East Point, GA (DC)",
+      "Account": "8888300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Colton, CA (DC)",
+      "Account": "8888600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Lathrop, CA (DC)",
+      "Account": "8888600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Troy, OH (DC)",
+      "Account": "9943200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Russellville, AR (DC)",
+      "Account": "9943400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Bridgeport, OH (DC)",
+      "Account": "9943700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Victoria, BC (DC)",
+      "Account": "9944300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Zanesville, OH (DC)",
+      "Account": "9945400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Summerville, SC (DC)",
+      "Account": "9945800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Muncie, IN (DC)",
+      "Account": "9946000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Trail, BC (DC)",
+      "Account": "9946300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Lloydminster, AB (DC)",
+      "Account": "9946400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Romeoville, IL (DC)",
+      "Account": "9946600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Bowling Green, OH (DC)",
+      "Account": "9946600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Warren, MI (DC)",
+      "Account": "9946600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Gallup, NM (DC)",
+      "Account": "9946700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Wenatchee, WA (DC)",
+      "Account": "9946900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Jamestown, NY (DC)",
+      "Account": "9947100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Norfolk, NE (DC)",
+      "Account": "9947400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Utica, NY (DC)",
+      "Account": "9947600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Idaho Falls, ID (DC)",
+      "Account": "9947800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Idaho Falls, ID (DC)",
+      "Account": "9947800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Grandville, MI (DC)",
+      "Account": "9948000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Bryon Center, MI (DC)",
+      "Account": "9948000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Camdenton, MO (DC)",
+      "Account": "9948100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Hood River, OR (DC)",
+      "Account": "9948200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Salinas, CA (DC)",
+      "Account": "9988700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Knoxville, TN (DC)",
+      "Account": "9988800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "El Paso, TX (DC)",
+      "Account": "9989200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Fort Worth, TX (DC)",
+      "Account": "9989200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Wichita, KS (DC)",
+      "Account": "9989400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Bryant, AR (DC)",
+      "Account": "8888300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Weston Mills, NY (DC)",
+      "Account": "9990800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Aurora, OH (DC)",
+      "Account": "9990800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Syracuse, NY (DC)",
+      "Account": "9990800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Johnstown, PA (DC)",
+      "Account": "9990800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Batavia, NY (DC)",
+      "Account": "9990800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Horseheads, NY (DC)",
+      "Account": "9990800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Sioux Falls, SD (DC)",
+      "Account": "9991100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Fargo, ND (DC)",
+      "Account": "9991100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Cedar Falls, IA (DC)",
+      "Account": "9991100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Davenport, IA (DC)",
+      "Account": "9991100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Fridley, MN (DC)",
+      "Account": "9991100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Medford, MN (DC)",
+      "Account": "9991100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Carbondale, IL (DC)",
+      "Account": "9995300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Palmerton, PA (DC)",
+      "Account": "9996400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Yuma, AZ (DC)",
+      "Account": "9996700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Sumter, SC (DC)",
+      "Account": "9997800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Kinston, NC (RDC)",
+      "Account": "9942400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Las Vegas (The Curve), NV (DC)",
+      "Account": "8888000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Indianapolis, IN (DC)",
+      "Account": "9981500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Watertown, NY (DC)",
+      "Account": "9942000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Spokane, WA (DC)",
+      "Account": "9987300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Dodge City, KS (DC)",
+      "Account": "9979700",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Decatur, IL (DC)",
+      "Account": "9954900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Decatur, IL (DC)",
+      "Account": "9954900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "St Louis, MO (DC)",
+      "Account": "9955000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Louisville, KY (DC)",
+      "Account": "9955100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Bad Axe, MI (DC)",
+      "Account": "9955600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Enfield, CT (DC)",
+      "Account": "9955800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Clarksville, TN (DC)",
+      "Account": "9955900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Liberal, KS (DC)",
+      "Account": "9956000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "La Vergne, TN (DC)",
+      "Account": "9956600",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Normal, IL (DC)",
+      "Account": "9957200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Oklahoma City, OK (DC)",
+      "Account": "9957400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Tulsa, OK (DC)",
+      "Account": "9957400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Prairie Du Chien, WI (DC)",
+      "Account": "9957500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Bridgeport, WV (DC)",
+      "Account": "9957900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Quesnel, BC (DC)",
+      "Account": "9958000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Tyler, TX (DC)",
+      "Account": "9958100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Somerset, KY (DC)",
+      "Account": "9958200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Dartmouth, NS (DC)",
+      "Account": "9958400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "Kokomo, IN (DC)",
+      "Account": "9958500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Kahului, HI (DC)",
+      "Account": "9959000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Honolulu, HI (DC)",
+      "Account": "9959000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Myrtle Beach, SC (DC)",
+      "Account": "9959100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Myrtle Beach, SC (DC)",
+      "Account": "9959100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Myrtle Beach, SC (DC)",
+      "Account": "9959200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Port Wentworth, GA (DC)",
+      "Account": "9959800",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Virginia Beach, VA (DC)",
+      "Account": "9959900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Grande Prairie, AB (DC)",
+      "Account": "9966000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
+    },
+    {
+      "Location": "College Station, TX (DC)",
+      "Account": "9966100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Houston, TX (DC)",
+      "Account": "9966100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Covington, LA (DC)",
+      "Account": "9966100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Lubbock, TX (DC)",
+      "Account": "9966100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Summerville, SC (DC)",
+      "Account": "9966200",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Blythe, CA (DC)",
+      "Account": "9966300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Anchorage, AK (DC)",
+      "Account": "9966500",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Roanoke, VA (DC)",
+      "Account": "9969100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Gray, TN (DC)",
+      "Account": "9969300",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Williston, VT (DC)",
+      "Account": "9969900",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Port Wentworth, GA (DC)",
+      "Account": "9970000",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Thatcher, AZ (DC)",
+      "Account": "9970400",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "United States"
+    },
+    {
+      "Location": "Cranbrook, BC (DC)",
+      "Account": "9971100",
+      "StoreType": "Warehouse",
+      "Status": "Active",
+      "Market": null,
+      "Region": null,
+      "StoreModel": null,
+      "Country": "Canada"
     }
   ],
-  "last_updated": "2026-02-12 16:16:16"
+  "last_updated": "2026-02-12 16:24:54"
 }

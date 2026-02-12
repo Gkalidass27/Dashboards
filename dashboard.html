@@ -470,8 +470,8 @@
             // Always calculate from filtered data
             const stores = data.filter(d => d.type !== 'Warehouse');
             const warehouses = data.filter(d => d.type === 'Warehouse');
-            const activeStores = stores.filter(d => d.status === 'Active');
-            const activeWarehouses = warehouses.filter(d => d.status === 'Active');
+            const activeStores = stores.filter(d => d.status.toLowerCase().startsWith('active'));
+            const activeWarehouses = warehouses.filter(d => d.status.toLowerCase().startsWith('active'));
 
             document.querySelector('.kpi-card:nth-child(1) .kpi-value').textContent = activeStores.length;
             document.querySelector('.kpi-card:nth-child(2) .kpi-value').textContent = activeWarehouses.length;
